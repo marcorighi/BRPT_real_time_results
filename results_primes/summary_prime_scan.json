@@ -1,0 +1,36 @@
+{
+  "accepted": 32964287171,
+  "brpt_module": "/home/brpt/BRPT_Python/brpt_x_x/brpt.py",
+  "distinct_pairs": 58,
+  "distinct_rings": 7,
+  "elapsed_seconds": 2677.861,
+  "errors": 0,
+  "false_negatives": 0,
+  "first_seen_tracking": {
+    "complete_from_requested_start": true,
+    "historical_gap": false,
+    "started_n": 2,
+    "started_prime_index": 0
+  },
+  "generator": "segmented_sieve",
+  "halted_on": {
+    "next_n": 872002787222,
+    "type": "INTERRUPTED"
+  },
+  "interrupted": true,
+  "last_prime": 872002787221,
+  "max_elapsed_ms": 744.0752,
+  "maximum_ring": 7,
+  "next_n": 872002787222,
+  "prime_index": 32964287171,
+  "rate_per_second": 99302.024,
+  "recorded_first_pairs": 58,
+  "recorded_first_rings": 7,
+  "rejected": 0,
+  "requested_start": 2,
+  "requested_stop": 0,
+  "state_version": 2,
+  "status": "INTERRUPTED",
+  "tested": 32964287171,
+  "tested_this_run": 265917030
+}

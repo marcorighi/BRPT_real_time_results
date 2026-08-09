@@ -1,0 +1,2061 @@
+{
+  "status": "verified",
+  "scope": {
+    "rings": [
+      1,
+      15
+    ],
+    "reported_rings": [
+      11,
+      15
+    ],
+    "classification_rows": 450
+  },
+  "method": {
+    "field_deduplication": "exact SymPy field_isomorphism",
+    "cubic_dependency_ranks": "exact compositum degrees via primitive_element",
+    "quadratic_character_sum": "exact sparse binary variable elimination"
+  },
+  "environment": {
+    "python": "3.14.6",
+    "sympy": "1.14.0",
+    "platform": "Linux-6.18.37-1-lts-x86_64-with-glibc2.43"
+  },
+  "files": {
+    "classification_csv": {
+      "path": "/home/brpt/BRPT_Python/brpt_x_x/results_galois/galois_classification_rings_1_15.csv",
+      "sha256": "63444503a9e20f928df2927e7ed8329dd335102c6f63594d40ee7ba09dc0a014"
+    },
+    "densities_csv": {
+      "path": "/home/brpt/BRPT_Python/brpt_x_x/results_galois/galois_densities_rings_11_15.csv",
+      "sha256": "c343945482068ea8aabb215e5a1ffaeb25efeaf180d4ec6faa76615c7969af92"
+    }
+  },
+  "duplicate_field_maps": [
+    {
+      "source": [
+        -3,
+        -4
+      ],
+      "target": [
+        6,
+        -4
+      ],
+      "source_root_in_target_basis_c2_c1_c0": [
+        "1/2",
+        "0",
+        "2"
+      ],
+      "target_root_in_source_basis_c2_c1_c0": [
+        "1",
+        "-1",
+        "-2"
+      ]
+    },
+    {
+      "source": [
+        -3,
+        -4
+      ],
+      "target": [
+        -3,
+        -14
+      ],
+      "source_root_in_target_basis_c2_c1_c0": [
+        "1/4",
+        "1/4",
+        "-1/2"
+      ],
+      "target_root_in_source_basis_c2_c1_c0": [
+        "1",
+        "0",
+        "-2"
+      ]
+    },
+    {
+      "source": [
+        6,
+        -8
+      ],
+      "target": [
+        -3,
+        -10
+      ],
+      "source_root_in_target_basis_c2_c1_c0": [
+        "1/2",
+        "-1/2",
+        "-1"
+      ],
+      "target_root_in_source_basis_c2_c1_c0": [
+        "1/2",
+        "0",
+        "2"
+      ]
+    },
+    {
+      "source": [
+        3,
+        -2
+      ],
+      "target": [
+        -3,
+        -6
+      ],
+      "source_root_in_target_basis_c2_c1_c0": [
+        "1/2",
+        "-1/2",
+        "-1"
+      ],
+      "target_root_in_source_basis_c2_c1_c0": [
+        "1",
+        "0",
+        "2"
+      ]
+    },
+    {
+      "source": [
+        3,
+        -2
+      ],
+      "target": [
+        -6,
+        -8
+      ],
+      "source_root_in_target_basis_c2_c1_c0": [
+        "-1/2",
+        "1",
+        "2"
+      ],
+      "target_root_in_source_basis_c2_c1_c0": [
+        "1",
+        "1",
+        "2"
+      ]
+    },
+    {
+      "source": [
+        -6,
+        -6
+      ],
+      "target": [
+        6,
+        -2
+      ],
+      "source_root_in_target_basis_c2_c1_c0": [
+        "2/3",
+        "1/3",
+        "8/3"
+      ],
+      "target_root_in_source_basis_c2_c1_c0": [
+        "-2",
+        "3",
+        "8"
+      ]
+    },
+    {
+      "source": [
+        -6,
+        -6
+      ],
+      "target": [
+        12,
+        -12
+      ],
+      "source_root_in_target_basis_c2_c1_c0": [
+        "3/10",
+        "1/5",
+        "12/5"
+      ],
+      "target_root_in_source_basis_c2_c1_c0": [
+        "3",
+        "-4",
+        "-12"
+      ]
+    },
+    {
+      "source": [
+        9,
+        -6
+      ],
+      "target": [
+        -9,
+        -12
+      ],
+      "source_root_in_target_basis_c2_c1_c0": [
+        "-1",
+        "2",
+        "6"
+      ],
+      "target_root_in_source_basis_c2_c1_c0": [
+        "1/2",
+        "1/2",
+        "3"
+      ]
+    },
+    {
+      "source": [
+        -3,
+        -3
+      ],
+      "target": [
+        3,
+        -1
+      ],
+      "source_root_in_target_basis_c2_c1_c0": [
+        "1",
+        "0",
+        "2"
+      ],
+      "target_root_in_source_basis_c2_c1_c0": [
+        "1",
+        "-1",
+        "-2"
+      ]
+    },
+    {
+      "source": [
+        -3,
+        -3
+      ],
+      "target": [
+        -3,
+        -7
+      ],
+      "source_root_in_target_basis_c2_c1_c0": [
+        "1/3",
+        "1/3",
+        "-2/3"
+      ],
+      "target_root_in_source_basis_c2_c1_c0": [
+        "1",
+        "0",
+        "-2"
+      ]
+    },
+    {
+      "source": [
+        -3,
+        -3
+      ],
+      "target": [
+        3,
+        -11
+      ],
+      "source_root_in_target_basis_c2_c1_c0": [
+        "1/5",
+        "3/5",
+        "2/5"
+      ],
+      "target_root_in_source_basis_c2_c1_c0": [
+        "-1",
+        "2",
+        "2"
+      ]
+    },
+    {
+      "source": [
+        -3,
+        -3
+      ],
+      "target": [
+        12,
+        -8
+      ],
+      "source_root_in_target_basis_c2_c1_c0": [
+        "1/4",
+        "0",
+        "2"
+      ],
+      "target_root_in_source_basis_c2_c1_c0": [
+        "2",
+        "-2",
+        "-4"
+      ]
+    },
+    {
+      "source": [
+        9,
+        -2
+      ],
+      "target": [
+        -6,
+        -12
+      ],
+      "source_root_in_target_basis_c2_c1_c0": [
+        "-1/2",
+        "1",
+        "2"
+      ],
+      "target_root_in_source_basis_c2_c1_c0": [
+        "1/2",
+        "1/2",
+        "3"
+      ]
+    },
+    {
+      "source": [
+        3,
+        -3
+      ],
+      "target": [
+        -9,
+        -11
+      ],
+      "source_root_in_target_basis_c2_c1_c0": [
+        "-1",
+        "2",
+        "6"
+      ],
+      "target_root_in_source_basis_c2_c1_c0": [
+        "1",
+        "1",
+        "2"
+      ]
+    },
+    {
+      "source": [
+        3,
+        -3
+      ],
+      "target": [
+        -3,
+        -11
+      ],
+      "source_root_in_target_basis_c2_c1_c0": [
+        "1/3",
+        "-1/3",
+        "-2/3"
+      ],
+      "target_root_in_source_basis_c2_c1_c0": [
+        "1",
+        "0",
+        "2"
+      ]
+    },
+    {
+      "source": [
+        -6,
+        -7
+      ],
+      "target": [
+        3,
+        -8
+      ],
+      "source_root_in_target_basis_c2_c1_c0": [
+        "1/2",
+        "1/2",
+        "1"
+      ],
+      "target_root_in_source_basis_c2_c1_c0": [
+        "1",
+        "-1",
+        "-4"
+      ]
+    },
+    {
+      "source": [
+        -6,
+        -7
+      ],
+      "target": [
+        6,
+        -11
+      ],
+      "source_root_in_target_basis_c2_c1_c0": [
+        "1/3",
+        "2/3",
+        "4/3"
+      ],
+      "target_root_in_source_basis_c2_c1_c0": [
+        "-1",
+        "2",
+        "4"
+      ]
+    },
+    {
+      "source": [
+        -9,
+        -13
+      ],
+      "target": [
+        15,
+        -7
+      ],
+      "source_root_in_target_basis_c2_c1_c0": [
+        "1/3",
+        "1/3",
+        "10/3"
+      ],
+      "target_root_in_source_basis_c2_c1_c0": [
+        "-1",
+        "2",
+        "6"
+      ]
+    },
+    {
+      "source": [
+        -3,
+        -5
+      ],
+      "target": [
+        9,
+        -9
+      ],
+      "source_root_in_target_basis_c2_c1_c0": [
+        "1/3",
+        "0",
+        "2"
+      ],
+      "target_root_in_source_basis_c2_c1_c0": [
+        "1",
+        "-1",
+        "-2"
+      ]
+    },
+    {
+      "source": [
+        -4,
+        -4
+      ],
+      "target": [
+        8,
+        -2
+      ],
+      "source_root_in_target_basis_c2_c1_c0": [
+        "3/7",
+        "2/7",
+        "16/7"
+      ],
+      "target_root_in_source_basis_c2_c1_c0": [
+        "-3/2",
+        "2",
+        "4"
+      ]
+    },
+    {
+      "source": [
+        -4,
+        -4
+      ],
+      "target": [
+        2,
+        -14
+      ],
+      "source_root_in_target_basis_c2_c1_c0": [
+        "3/11",
+        "4/11",
+        "4/11"
+      ],
+      "target_root_in_source_basis_c2_c1_c0": [
+        "3/2",
+        "-1",
+        "-4"
+      ]
+    },
+    {
+      "source": [
+        -1,
+        -1
+      ],
+      "target": [
+        -4,
+        -8
+      ],
+      "source_root_in_target_basis_c2_c1_c0": [
+        "1/2",
+        "0"
+      ],
+      "target_root_in_source_basis_c2_c1_c0": [
+        "2",
+        "0"
+      ]
+    },
+    {
+      "source": [
+        -1,
+        -1
+      ],
+      "target": [
+        11,
+        -7
+      ],
+      "source_root_in_target_basis_c2_c1_c0": [
+        "3/17",
+        "-1/17",
+        "22/17"
+      ],
+      "target_root_in_source_basis_c2_c1_c0": [
+        "3",
+        "-2",
+        "-2"
+      ]
+    },
+    {
+      "source": [
+        -1,
+        -1
+      ],
+      "target": [
+        15,
+        -11
+      ],
+      "source_root_in_target_basis_c2_c1_c0": [
+        "1/9",
+        "2/9",
+        "10/9"
+      ],
+      "target_root_in_source_basis_c2_c1_c0": [
+        "-3",
+        "3",
+        "2"
+      ]
+    },
+    {
+      "source": [
+        1,
+        -1
+      ],
+      "target": [
+        4,
+        -8
+      ],
+      "source_root_in_target_basis_c2_c1_c0": [
+        "1/2",
+        "0"
+      ],
+      "target_root_in_source_basis_c2_c1_c0": [
+        "2",
+        "0"
+      ]
+    },
+    {
+      "source": [
+        2,
+        -1
+      ],
+      "target": [
+        8,
+        -8
+      ],
+      "source_root_in_target_basis_c2_c1_c0": [
+        "1/2",
+        "0"
+      ],
+      "target_root_in_source_basis_c2_c1_c0": [
+        "2",
+        "0"
+      ]
+    },
+    {
+      "source": [
+        8,
+        -1
+      ],
+      "target": [
+        -7,
+        -10
+      ],
+      "source_root_in_target_basis_c2_c1_c0": [
+        "3/4",
+        "-5/4",
+        "-7/2"
+      ],
+      "target_root_in_source_basis_c2_c1_c0": [
+        "3/5",
+        "-1/5",
+        "16/5"
+      ]
+    },
+    {
+      "source": [
+        -8,
+        -9
+      ],
+      "target": [
+        13,
+        -2
+      ],
+      "source_root_in_target_basis_c2_c1_c0": [
+        "3/8",
+        "1/8",
+        "13/4"
+      ],
+      "target_root_in_source_basis_c2_c1_c0": [
+        "-3",
+        "5",
+        "16"
+      ]
+    },
+    {
+      "source": [
+        -6,
+        -2
+      ],
+      "target": [
+        -12,
+        -2
+      ],
+      "source_root_in_target_basis_c2_c1_c0": [
+        "-1/3",
+        "1/3",
+        "8/3"
+      ],
+      "target_root_in_source_basis_c2_c1_c0": [
+        "-1",
+        "1",
+        "4"
+      ]
+    },
+    {
+      "source": [
+        -6,
+        -3
+      ],
+      "target": [
+        -9,
+        -4
+      ],
+      "source_root_in_target_basis_c2_c1_c0": [
+        "-1/2",
+        "1/2",
+        "3"
+      ],
+      "target_root_in_source_basis_c2_c1_c0": [
+        "-1",
+        "1",
+        "4"
+      ]
+    }
+  ],
+  "same_quadratic_resolvent_groups": [
+    {
+      "squareclass": [
+        -1,
+        2
+      ],
+      "squarefree_representative": -2,
+      "field_clusters": [
+        [
+          [
+            6,
+            -8
+          ],
+          [
+            -3,
+            -10
+          ]
+        ],
+        [
+          [
+            5,
+            -10
+          ]
+        ],
+        [
+          [
+            15,
+            -10
+          ]
+        ]
+      ],
+      "representatives": [
+        [
+          6,
+          -8
+        ],
+        [
+          5,
+          -10
+        ],
+        [
+          15,
+          -10
+        ]
+      ],
+      "distinct_fields": 3,
+      "cubic_rank_over_resolvent": 2,
+      "splitting_compositum_degree_over_Q": 18
+    },
+    {
+      "squareclass": [
+        -1,
+        3
+      ],
+      "squarefree_representative": -3,
+      "field_clusters": [
+        [
+          [
+            -6,
+            -6
+          ],
+          [
+            6,
+            -2
+          ],
+          [
+            12,
+            -12
+          ]
+        ],
+        [
+          [
+            9,
+            -6
+          ],
+          [
+            -9,
+            -12
+          ]
+        ]
+      ],
+      "representatives": [
+        [
+          -6,
+          -6
+        ],
+        [
+          9,
+          -6
+        ]
+      ],
+      "distinct_fields": 2,
+      "cubic_rank_over_resolvent": 2,
+      "splitting_compositum_degree_over_Q": 18
+    },
+    {
+      "squareclass": [
+        -1,
+        3,
+        7
+      ],
+      "squarefree_representative": -21,
+      "field_clusters": [
+        [
+          [
+            9,
+            -2
+          ],
+          [
+            -6,
+            -12
+          ]
+        ],
+        [
+          [
+            9,
+            -12
+          ]
+        ]
+      ],
+      "representatives": [
+        [
+          9,
+          -2
+        ],
+        [
+          9,
+          -12
+        ]
+      ],
+      "distinct_fields": 2,
+      "cubic_rank_over_resolvent": 2,
+      "splitting_compositum_degree_over_Q": 18
+    },
+    {
+      "squareclass": [
+        -1,
+        3,
+        13
+      ],
+      "squarefree_representative": -39,
+      "field_clusters": [
+        [
+          [
+            3,
+            -3
+          ],
+          [
+            -9,
+            -11
+          ],
+          [
+            -3,
+            -11
+          ]
+        ],
+        [
+          [
+            9,
+            -3
+          ]
+        ],
+        [
+          [
+            -9,
+            -15
+          ]
+        ]
+      ],
+      "representatives": [
+        [
+          3,
+          -3
+        ],
+        [
+          9,
+          -3
+        ],
+        [
+          -9,
+          -15
+        ]
+      ],
+      "distinct_fields": 3,
+      "cubic_rank_over_resolvent": 2,
+      "splitting_compositum_degree_over_Q": 18
+    },
+    {
+      "squareclass": [
+        -1,
+        3,
+        17
+      ],
+      "squarefree_representative": -51,
+      "field_clusters": [
+        [
+          [
+            6,
+            -6
+          ]
+        ],
+        [
+          [
+            -6,
+            -7
+          ],
+          [
+            3,
+            -8
+          ],
+          [
+            6,
+            -11
+          ]
+        ],
+        [
+          [
+            -6,
+            -10
+          ]
+        ],
+        [
+          [
+            12,
+            -4
+          ]
+        ]
+      ],
+      "representatives": [
+        [
+          6,
+          -6
+        ],
+        [
+          -6,
+          -7
+        ],
+        [
+          -6,
+          -10
+        ],
+        [
+          12,
+          -4
+        ]
+      ],
+      "distinct_fields": 4,
+      "cubic_rank_over_resolvent": 2,
+      "splitting_compositum_degree_over_Q": 18
+    },
+    {
+      "squareclass": [
+        -1,
+        3,
+        29
+      ],
+      "squarefree_representative": -87,
+      "field_clusters": [
+        [
+          [
+            3,
+            -5
+          ]
+        ],
+        [
+          [
+            15,
+            -15
+          ]
+        ]
+      ],
+      "representatives": [
+        [
+          3,
+          -5
+        ],
+        [
+          15,
+          -15
+        ]
+      ],
+      "distinct_fields": 2,
+      "cubic_rank_over_resolvent": 2,
+      "splitting_compositum_degree_over_Q": 18
+    },
+    {
+      "squareclass": [
+        -1,
+        3,
+        37
+      ],
+      "squarefree_representative": -111,
+      "field_clusters": [
+        [
+          [
+            3,
+            -12
+          ]
+        ],
+        [
+          [
+            9,
+            -15
+          ]
+        ]
+      ],
+      "representatives": [
+        [
+          3,
+          -12
+        ],
+        [
+          9,
+          -15
+        ]
+      ],
+      "distinct_fields": 2,
+      "cubic_rank_over_resolvent": 2,
+      "splitting_compositum_degree_over_Q": 18
+    },
+    {
+      "squareclass": [
+        -1,
+        3,
+        41
+      ],
+      "squarefree_representative": -123,
+      "field_clusters": [
+        [
+          [
+            6,
+            -3
+          ]
+        ],
+        [
+          [
+            -6,
+            -14
+          ]
+        ]
+      ],
+      "representatives": [
+        [
+          6,
+          -3
+        ],
+        [
+          -6,
+          -14
+        ]
+      ],
+      "distinct_fields": 2,
+      "cubic_rank_over_resolvent": 2,
+      "splitting_compositum_degree_over_Q": 18
+    },
+    {
+      "squareclass": [
+        -1,
+        3,
+        89
+      ],
+      "squarefree_representative": -267,
+      "field_clusters": [
+        [
+          [
+            -6,
+            -11
+          ]
+        ],
+        [
+          [
+            12,
+            -10
+          ]
+        ]
+      ],
+      "representatives": [
+        [
+          -6,
+          -11
+        ],
+        [
+          12,
+          -10
+        ]
+      ],
+      "distinct_fields": 2,
+      "cubic_rank_over_resolvent": 2,
+      "splitting_compositum_degree_over_Q": 18
+    },
+    {
+      "squareclass": [
+        -1,
+        3,
+        113
+      ],
+      "squarefree_representative": -339,
+      "field_clusters": [
+        [
+          [
+            6,
+            -9
+          ]
+        ],
+        [
+          [
+            12,
+            -14
+          ]
+        ]
+      ],
+      "representatives": [
+        [
+          6,
+          -9
+        ],
+        [
+          12,
+          -14
+        ]
+      ],
+      "distinct_fields": 2,
+      "cubic_rank_over_resolvent": 2,
+      "splitting_compositum_degree_over_Q": 18
+    },
+    {
+      "squareclass": [
+        -1,
+        3,
+        229
+      ],
+      "squarefree_representative": -687,
+      "field_clusters": [
+        [
+          [
+            9,
+            -11
+          ]
+        ],
+        [
+          [
+            3,
+            -15
+          ]
+        ]
+      ],
+      "representatives": [
+        [
+          9,
+          -11
+        ],
+        [
+          3,
+          -15
+        ]
+      ],
+      "distinct_fields": 2,
+      "cubic_rank_over_resolvent": 2,
+      "splitting_compositum_degree_over_Q": 18
+    },
+    {
+      "squareclass": [
+        -1,
+        3,
+        257
+      ],
+      "squarefree_representative": -771,
+      "field_clusters": [
+        [
+          [
+            12,
+            -1
+          ]
+        ],
+        [
+          [
+            6,
+            -15
+          ]
+        ]
+      ],
+      "representatives": [
+        [
+          12,
+          -1
+        ],
+        [
+          6,
+          -15
+        ]
+      ],
+      "distinct_fields": 2,
+      "cubic_rank_over_resolvent": 2,
+      "splitting_compositum_degree_over_Q": 18
+    },
+    {
+      "squareclass": [
+        -1,
+        5
+      ],
+      "squarefree_representative": -5,
+      "field_clusters": [
+        [
+          [
+            -3,
+            -8
+          ]
+        ],
+        [
+          [
+            -7,
+            -14
+          ]
+        ]
+      ],
+      "representatives": [
+        [
+          -3,
+          -8
+        ],
+        [
+          -7,
+          -14
+        ]
+      ],
+      "distinct_fields": 2,
+      "cubic_rank_over_resolvent": 2,
+      "splitting_compositum_degree_over_Q": 18
+    },
+    {
+      "squareclass": [
+        -1,
+        5,
+        11
+      ],
+      "squarefree_representative": -55,
+      "field_clusters": [
+        [
+          [
+            7,
+            -7
+          ]
+        ],
+        [
+          [
+            -3,
+            -13
+          ]
+        ]
+      ],
+      "representatives": [
+        [
+          7,
+          -7
+        ],
+        [
+          -3,
+          -13
+        ]
+      ],
+      "distinct_fields": 2,
+      "cubic_rank_over_resolvent": 2,
+      "splitting_compositum_degree_over_Q": 18
+    },
+    {
+      "squareclass": [
+        -1,
+        5,
+        263
+      ],
+      "squarefree_representative": -1315,
+      "field_clusters": [
+        [
+          [
+            7,
+            -12
+          ]
+        ],
+        [
+          [
+            -2,
+            -14
+          ]
+        ]
+      ],
+      "representatives": [
+        [
+          7,
+          -12
+        ],
+        [
+          -2,
+          -14
+        ]
+      ],
+      "distinct_fields": 2,
+      "cubic_rank_over_resolvent": 2,
+      "splitting_compositum_degree_over_Q": 18
+    },
+    {
+      "squareclass": [
+        -1,
+        7
+      ],
+      "squarefree_representative": -7,
+      "field_clusters": [
+        [
+          [
+            -5,
+            -5
+          ]
+        ],
+        [
+          [
+            -3,
+            -5
+          ],
+          [
+            9,
+            -9
+          ]
+        ],
+        [
+          [
+            15,
+            -5
+          ]
+        ]
+      ],
+      "representatives": [
+        [
+          -5,
+          -5
+        ],
+        [
+          -3,
+          -5
+        ],
+        [
+          15,
+          -5
+        ]
+      ],
+      "distinct_fields": 3,
+      "cubic_rank_over_resolvent": 2,
+      "splitting_compositum_degree_over_Q": 18
+    },
+    {
+      "squareclass": [
+        -1,
+        11
+      ],
+      "squarefree_representative": -11,
+      "field_clusters": [
+        [
+          [
+            -4,
+            -4
+          ],
+          [
+            8,
+            -2
+          ],
+          [
+            2,
+            -14
+          ]
+        ],
+        [
+          [
+            6,
+            -1
+          ]
+        ],
+        [
+          [
+            6,
+            -10
+          ]
+        ]
+      ],
+      "representatives": [
+        [
+          -4,
+          -4
+        ],
+        [
+          6,
+          -1
+        ],
+        [
+          6,
+          -10
+        ]
+      ],
+      "distinct_fields": 3,
+      "cubic_rank_over_resolvent": 2,
+      "splitting_compositum_degree_over_Q": 18
+    },
+    {
+      "squareclass": [
+        -1,
+        19
+      ],
+      "squarefree_representative": -19,
+      "field_clusters": [
+        [
+          [
+            -2,
+            -2
+          ]
+        ],
+        [
+          [
+            6,
+            -5
+          ]
+        ],
+        [
+          [
+            6,
+            -14
+          ]
+        ]
+      ],
+      "representatives": [
+        [
+          -2,
+          -2
+        ],
+        [
+          6,
+          -5
+        ],
+        [
+          6,
+          -14
+        ]
+      ],
+      "distinct_fields": 3,
+      "cubic_rank_over_resolvent": 2,
+      "splitting_compositum_degree_over_Q": 18
+    },
+    {
+      "squareclass": [
+        -1,
+        43
+      ],
+      "squarefree_representative": -43,
+      "field_clusters": [
+        [
+          [
+            4,
+            -4
+          ]
+        ],
+        [
+          [
+            15,
+            -4
+          ]
+        ]
+      ],
+      "representatives": [
+        [
+          4,
+          -4
+        ],
+        [
+          15,
+          -4
+        ]
+      ],
+      "distinct_fields": 2,
+      "cubic_rank_over_resolvent": 2,
+      "splitting_compositum_degree_over_Q": 18
+    },
+    {
+      "squareclass": [
+        -1,
+        47
+      ],
+      "squarefree_representative": -47,
+      "field_clusters": [
+        [
+          [
+            5,
+            -5
+          ]
+        ],
+        [
+          [
+            15,
+            -8
+          ]
+        ]
+      ],
+      "representatives": [
+        [
+          5,
+          -5
+        ],
+        [
+          15,
+          -8
+        ]
+      ],
+      "distinct_fields": 2,
+      "cubic_rank_over_resolvent": 2,
+      "splitting_compositum_degree_over_Q": 18
+    },
+    {
+      "squareclass": [
+        -1,
+        67
+      ],
+      "squarefree_representative": -67,
+      "field_clusters": [
+        [
+          [
+            10,
+            -10
+          ]
+        ],
+        [
+          [
+            6,
+            -13
+          ]
+        ]
+      ],
+      "representatives": [
+        [
+          10,
+          -10
+        ],
+        [
+          6,
+          -13
+        ]
+      ],
+      "distinct_fields": 2,
+      "cubic_rank_over_resolvent": 2,
+      "splitting_compositum_degree_over_Q": 18
+    },
+    {
+      "squareclass": [
+        -1,
+        83
+      ],
+      "squarefree_representative": -83,
+      "field_clusters": [
+        [
+          [
+            8,
+            -1
+          ],
+          [
+            -7,
+            -10
+          ]
+        ],
+        [
+          [
+            14,
+            -14
+          ]
+        ],
+        [
+          [
+            -10,
+            -15
+          ]
+        ]
+      ],
+      "representatives": [
+        [
+          8,
+          -1
+        ],
+        [
+          14,
+          -14
+        ],
+        [
+          -10,
+          -15
+        ]
+      ],
+      "distinct_fields": 3,
+      "cubic_rank_over_resolvent": 3,
+      "splitting_compositum_degree_over_Q": 54
+    },
+    {
+      "squareclass": [
+        -1,
+        223
+      ],
+      "squarefree_representative": -223,
+      "field_clusters": [
+        [
+          [
+            -5,
+            -15
+          ]
+        ],
+        [
+          [
+            15,
+            -13
+          ]
+        ]
+      ],
+      "representatives": [
+        [
+          -5,
+          -15
+        ],
+        [
+          15,
+          -13
+        ]
+      ],
+      "distinct_fields": 2,
+      "cubic_rank_over_resolvent": 2,
+      "splitting_compositum_degree_over_Q": 18
+    },
+    {
+      "squareclass": [
+        -1,
+        251
+      ],
+      "squarefree_representative": -251,
+      "field_clusters": [
+        [
+          [
+            2,
+            -6
+          ]
+        ],
+        [
+          [
+            14,
+            -7
+          ]
+        ]
+      ],
+      "representatives": [
+        [
+          2,
+          -6
+        ],
+        [
+          14,
+          -7
+        ]
+      ],
+      "distinct_fields": 2,
+      "cubic_rank_over_resolvent": 2,
+      "splitting_compositum_degree_over_Q": 18
+    },
+    {
+      "squareclass": [
+        -1,
+        307
+      ],
+      "squarefree_representative": -307,
+      "field_clusters": [
+        [
+          [
+            4,
+            -6
+          ]
+        ],
+        [
+          [
+            -5,
+            -8
+          ]
+        ]
+      ],
+      "representatives": [
+        [
+          4,
+          -6
+        ],
+        [
+          -5,
+          -8
+        ]
+      ],
+      "distinct_fields": 2,
+      "cubic_rank_over_resolvent": 2,
+      "splitting_compositum_degree_over_Q": 18
+    },
+    {
+      "squareclass": [
+        -1,
+        4027
+      ],
+      "squarefree_representative": -4027,
+      "field_clusters": [
+        [
+          [
+            10,
+            -1
+          ]
+        ],
+        [
+          [
+            -8,
+            -15
+          ]
+        ]
+      ],
+      "representatives": [
+        [
+          10,
+          -1
+        ],
+        [
+          -8,
+          -15
+        ]
+      ],
+      "distinct_fields": 2,
+      "cubic_rank_over_resolvent": 2,
+      "splitting_compositum_degree_over_Q": 18
+    },
+    {
+      "squareclass": [
+        3,
+        7
+      ],
+      "squarefree_representative": 21,
+      "field_clusters": [
+        [
+          [
+            -6,
+            -2
+          ],
+          [
+            -12,
+            -2
+          ]
+        ],
+        [
+          [
+            -12,
+            -12
+          ]
+        ]
+      ],
+      "representatives": [
+        [
+          -6,
+          -2
+        ],
+        [
+          -12,
+          -12
+        ]
+      ],
+      "distinct_fields": 2,
+      "cubic_rank_over_resolvent": 2,
+      "splitting_compositum_degree_over_Q": 18
+    },
+    {
+      "squareclass": [
+        3,
+        11
+      ],
+      "squarefree_representative": 33,
+      "field_clusters": [
+        [
+          [
+            -9,
+            -3
+          ]
+        ],
+        [
+          [
+            -15,
+            -15
+          ]
+        ]
+      ],
+      "representatives": [
+        [
+          -9,
+          -3
+        ],
+        [
+          -15,
+          -15
+        ]
+      ],
+      "distinct_fields": 2,
+      "cubic_rank_over_resolvent": 2,
+      "splitting_compositum_degree_over_Q": 18
+    },
+    {
+      "squareclass": [
+        3,
+        23
+      ],
+      "squarefree_representative": 69,
+      "field_clusters": [
+        [
+          [
+            -6,
+            -3
+          ],
+          [
+            -9,
+            -4
+          ]
+        ],
+        [
+          [
+            -12,
+            -7
+          ]
+        ]
+      ],
+      "representatives": [
+        [
+          -6,
+          -3
+        ],
+        [
+          -12,
+          -7
+        ]
+      ],
+      "distinct_fields": 2,
+      "cubic_rank_over_resolvent": 2,
+      "splitting_compositum_degree_over_Q": 18
+    },
+    {
+      "squareclass": [
+        3,
+        31
+      ],
+      "squarefree_representative": 93,
+      "field_clusters": [
+        [
+          [
+            -6,
+            -1
+          ]
+        ],
+        [
+          [
+            -15,
+            -2
+          ]
+        ],
+        [
+          [
+            -12,
+            -15
+          ]
+        ]
+      ],
+      "representatives": [
+        [
+          -6,
+          -1
+        ],
+        [
+          -15,
+          -2
+        ],
+        [
+          -12,
+          -15
+        ]
+      ],
+      "distinct_fields": 3,
+      "cubic_rank_over_resolvent": 1,
+      "splitting_compositum_degree_over_Q": 6
+    },
+    {
+      "squareclass": [
+        5
+      ],
+      "squarefree_representative": 5,
+      "field_clusters": [
+        [
+          [
+            -12,
+            -4
+          ]
+        ],
+        [
+          [
+            -12,
+            -14
+          ]
+        ]
+      ],
+      "representatives": [
+        [
+          -12,
+          -4
+        ],
+        [
+          -12,
+          -14
+        ]
+      ],
+      "distinct_fields": 2,
+      "cubic_rank_over_resolvent": 2,
+      "splitting_compositum_degree_over_Q": 18
+    },
+    {
+      "squareclass": [
+        13
+      ],
+      "squarefree_representative": 13,
+      "field_clusters": [
+        [
+          [
+            -10,
+            -10
+          ]
+        ],
+        [
+          [
+            -12,
+            -10
+          ]
+        ]
+      ],
+      "representatives": [
+        [
+          -10,
+          -10
+        ],
+        [
+          -12,
+          -10
+        ]
+      ],
+      "distinct_fields": 2,
+      "cubic_rank_over_resolvent": 2,
+      "splitting_compositum_degree_over_Q": 18
+    },
+    {
+      "squareclass": [
+        29
+      ],
+      "squarefree_representative": 29,
+      "field_clusters": [
+        [
+          [
+            -12,
+            -13
+          ]
+        ],
+        [
+          [
+            -14,
+            -14
+          ]
+        ]
+      ],
+      "representatives": [
+        [
+          -12,
+          -13
+        ],
+        [
+          -14,
+          -14
+        ]
+      ],
+      "distinct_fields": 2,
+      "cubic_rank_over_resolvent": 2,
+      "splitting_compositum_degree_over_Q": 18
+    }
+  ],
+  "cyclic_cubic_fields": [
+    {
+      "field_cluster": [
+        [
+          -3,
+          -1
+        ],
+        [
+          -9,
+          -9
+        ],
+        [
+          -12,
+          -8
+        ]
+      ],
+      "representative": [
+        -3,
+        -1
+      ],
+      "polynomial_discriminant": 81
+    },
+    {
+      "field_cluster": [
+        [
+          -7,
+          -7
+        ]
+      ],
+      "representative": [
+        -7,
+        -7
+      ],
+      "polynomial_discriminant": 49
+    },
+    {
+      "field_cluster": [
+        [
+          -13,
+          -13
+        ]
+      ],
+      "representative": [
+        -13,
+        -13
+      ],
+      "polynomial_discriminant": 4225
+    }
+  ],
+  "cyclic_cubic_rank": 3,
+  "cyclic_cubic_compositum_degree_over_Q": 27,
+  "densities": [
+    {
+      "ring": 11,
+      "s3_fields": 188,
+      "s3_cubic_rank": 186,
+      "quadratic_resolvents": 178,
+      "squareclass_rank": 103,
+      "quadratic_generators": 103,
+      "relation_dimension": 85,
+      "resolvent_relation_dimension": 75,
+      "max_fields_per_resolvent": 3,
+      "a3_fields": 2,
+      "a3_rank": 2,
+      "elimination_width": 8,
+      "first_acceptance_fraction": "957988237730342915666761020131079402854725502970245151509708800/499799580528929400138079903574958700644537122001114885706174272852663778107639762446602161",
+      "failure_fraction": "512921730668401271465075977519134418010055757940129792000/499799580528929400138079903574958700644537122001114885706174272852663778107639762446602161",
+      "failure_decimal": "1.0262548242349162e-33",
+      "coverage_fraction": "499799580528929400138079903574958187722806453599843420630196753718245768051881822316810161/499799580528929400138079903574958700644537122001114885706174272852663778107639762446602161",
+      "coverage_decimal": "1.0000000000000000e+00"
+    },
+    {
+      "ring": 12,
+      "s3_fields": 222,
+      "s3_cubic_rank": 219,
+      "quadratic_resolvents": 206,
+      "squareclass_rank": 110,
+      "quadratic_generators": 110,
+      "relation_dimension": 112,
+      "resolvent_relation_dimension": 96,
+      "max_fields_per_resolvent": 4,
+      "a3_fields": 2,
+      "a3_rank": 2,
+      "elimination_width": 8,
+      "first_acceptance_fraction": "2851359147989613353017947445278461150627644422519061933690658547040256000/2778416139299363012879807394073541900105316880497683964790215807591118587512684646756204117659106898285203",
+      "failure_fraction": "3818698508796033919747070154905244778842203355186756498447400960000/2778416139299363012879807394073541900105316880497683964790215807591118587512684646756204117659106898285203",
+      "failure_decimal": "1.3744156085124816e-39",
+      "coverage_fraction": "2778416139299363012879807394073541900101498181988887930870468737436213342733842443401017361160659497325203/2778416139299363012879807394073541900105316880497683964790215807591118587512684646756204117659106898285203",
+      "coverage_decimal": "1.0000000000000000e+00"
+    },
+    {
+      "ring": 13,
+      "s3_fields": 268,
+      "s3_cubic_rank": 265,
+      "quadratic_resolvents": 250,
+      "squareclass_rank": 135,
+      "quadratic_generators": 135,
+      "relation_dimension": 133,
+      "resolvent_relation_dimension": 115,
+      "max_fields_per_resolvent": 4,
+      "a3_fields": 3,
+      "a3_rank": 3,
+      "elimination_width": 10,
+      "first_acceptance_fraction": "101534664884309861300004298305441842067440077972157892883614368206221202632711853834240000/73874790939762173925332365231284392588323580292535533623396459499922800474435704482921921201029164993881113346534847664912715761",
+      "failure_fraction": "858895731056061136974879807014526348475778937481616253033473755227373206241280000/73874790939762173925332365231284392588323580292535533623396459499922800474435704482921921201029164993881113346534847664912715761",
+      "failure_decimal": "1.1626371054727025e-47",
+      "coverage_fraction": "73874790939762173925332365231284392588323580291676637892340398362947920667421178134446142263547548740847639591307474458671435761/73874790939762173925332365231284392588323580292535533623396459499922800474435704482921921201029164993881113346534847664912715761",
+      "coverage_decimal": "1.0000000000000000e+00"
+    },
+    {
+      "ring": 14,
+      "s3_fields": 315,
+      "s3_cubic_rank": 311,
+      "quadratic_resolvents": 288,
+      "squareclass_rank": 157,
+      "quadratic_generators": 157,
+      "relation_dimension": 158,
+      "resolvent_relation_dimension": 131,
+      "max_fields_per_resolvent": 4,
+      "a3_fields": 3,
+      "a3_rank": 3,
+      "elimination_width": 11,
+      "first_acceptance_fraction": "7612339554193574300931242066324354121269779894106451692321910748961481637142097112154827337205022720000/654747700701377386126856657861679570529800895801424573182559133258946484061065580876771978236269380302819031314362546968961704181923607153180171236969",
+      "failure_fraction": "161389992481760720053122189897186109263119975173837102959623840060700712220849818405594726400000/654747700701377386126856657861679570529800895801424573182559133258946484061065580876771978236269380302819031314362546968961704181923607153180171236969",
+      "failure_decimal": "2.4649188123742456e-55",
+      "coverage_fraction": "654747700701377386126856657861679570529800895801424573021169140777185764007943390979585868973149405128981928354738706908260991961073788747585444836969/654747700701377386126856657861679570529800895801424573182559133258946484061065580876771978236269380302819031314362546968961704181923607153180171236969",
+      "coverage_decimal": "1.0000000000000000e+00"
+    },
+    {
+      "ring": 15,
+      "s3_fields": 366,
+      "s3_cubic_rank": 357,
+      "quadratic_resolvents": 324,
+      "squareclass_rank": 170,
+      "quadratic_generators": 170,
+      "relation_dimension": 196,
+      "resolvent_relation_dimension": 154,
+      "max_fields_per_resolvent": 4,
+      "a3_fields": 3,
+      "a3_rank": 3,
+      "elimination_width": 11,
+      "first_acceptance_fraction": "1430389509951916014847630594151876568909619907507528271385586451048529397648474995847634750633369461993054551408640000/5802988355301064263572941269018812264886757498342118039827603956893368389206154994705426429662904979537365662938773593537918329060451697709838267789886857631025156060199201",
+      "failure_fraction": "6545111630114395708030857285721847509458467562354531380895891183621346634881313902835937374007968357416960000/5802988355301064263572941269018812264886757498342118039827603956893368389206154994705426429662904979537365662938773593537918329060451697709838267789886857631025156060199201",
+      "failure_decimal": "1.1278863973827205e-63",
+      "coverage_fraction": "5802988355301064263572941269018812264886757498342118039827603950348256759091759286674569143941057470078898100584242212642027145439105062828524364953949483623056798643239201/5802988355301064263572941269018812264886757498342118039827603956893368389206154994705426429662904979537365662938773593537918329060451697709838267789886857631025156060199201",
+      "coverage_decimal": "1.0000000000000000e+00"
+    }
+  ]
+}

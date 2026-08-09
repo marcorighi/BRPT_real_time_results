@@ -1,0 +1,206 @@
+{
+  "status": "verified",
+  "scope": {
+    "rings": [
+      1,
+      5
+    ],
+    "reported_rings": [
+      1,
+      5
+    ],
+    "classification_rows": 50
+  },
+  "method": {
+    "field_deduplication": "exact SymPy field_isomorphism",
+    "cubic_dependency_ranks": "exact compositum degrees via primitive_element",
+    "quadratic_character_sum": "exact sparse binary variable elimination"
+  },
+  "environment": {
+    "python": "3.14.6",
+    "sympy": "1.14.0",
+    "platform": "Linux-6.18.37-1-lts-x86_64-with-glibc2.43"
+  },
+  "files": {
+    "classification_csv": {
+      "path": "/home/brpt/BRPT_Python/brpt_x_x/results_galois/galois_classification_rings_1_5.csv",
+      "sha256": "8b57ff80429901aec758124d70fe306ea5342ce54fd2e6045ea86f5d651c1454"
+    },
+    "densities_csv": {
+      "path": "/home/brpt/BRPT_Python/brpt_x_x/results_galois/galois_densities_rings_1_5.csv",
+      "sha256": "abcc8dd70097543c7499329f3821c31426ea9bdef5456653dde99bf063449707"
+    }
+  },
+  "duplicate_field_maps": [
+    {
+      "source": [
+        -3,
+        -3
+      ],
+      "target": [
+        3,
+        -1
+      ],
+      "source_root_in_target_basis_c2_c1_c0": [
+        "1",
+        "0",
+        "2"
+      ],
+      "target_root_in_source_basis_c2_c1_c0": [
+        "1",
+        "-1",
+        "-2"
+      ]
+    }
+  ],
+  "same_quadratic_resolvent_groups": [
+    {
+      "squareclass": [
+        -1,
+        7
+      ],
+      "squarefree_representative": -7,
+      "field_clusters": [
+        [
+          [
+            -5,
+            -5
+          ]
+        ],
+        [
+          [
+            -3,
+            -5
+          ]
+        ]
+      ],
+      "representatives": [
+        [
+          -5,
+          -5
+        ],
+        [
+          -3,
+          -5
+        ]
+      ],
+      "distinct_fields": 2,
+      "cubic_rank_over_resolvent": 2,
+      "splitting_compositum_degree_over_Q": 18
+    }
+  ],
+  "cyclic_cubic_fields": [
+    {
+      "field_cluster": [
+        [
+          -3,
+          -1
+        ]
+      ],
+      "representative": [
+        -3,
+        -1
+      ],
+      "polynomial_discriminant": 81
+    }
+  ],
+  "cyclic_cubic_rank": 1,
+  "cyclic_cubic_compositum_degree_over_Q": 3,
+  "densities": [
+    {
+      "ring": 1,
+      "s3_fields": 2,
+      "s3_cubic_rank": 2,
+      "quadratic_resolvents": 2,
+      "squareclass_rank": 2,
+      "quadratic_generators": 3,
+      "relation_dimension": 0,
+      "resolvent_relation_dimension": 0,
+      "max_fields_per_resolvent": 1,
+      "a3_fields": 0,
+      "a3_rank": 0,
+      "elimination_width": 2,
+      "first_acceptance_fraction": "5/9",
+      "failure_fraction": "4/9",
+      "failure_decimal": "4.4444444444444442e-01",
+      "coverage_fraction": "5/9",
+      "coverage_decimal": "5.5555555555555558e-01"
+    },
+    {
+      "ring": 2,
+      "s3_fields": 6,
+      "s3_cubic_rank": 6,
+      "quadratic_resolvents": 6,
+      "squareclass_rank": 6,
+      "quadratic_generators": 9,
+      "relation_dimension": 0,
+      "resolvent_relation_dimension": 0,
+      "max_fields_per_resolvent": 1,
+      "a3_fields": 0,
+      "a3_rank": 0,
+      "elimination_width": 3,
+      "first_acceptance_fraction": "260/729",
+      "failure_fraction": "64/729",
+      "failure_decimal": "8.7791495198902600e-02",
+      "coverage_fraction": "665/729",
+      "coverage_decimal": "9.1220850480109739e-01"
+    },
+    {
+      "ring": 3,
+      "s3_fields": 12,
+      "s3_cubic_rank": 12,
+      "quadratic_resolvents": 12,
+      "squareclass_rank": 12,
+      "quadratic_generators": 12,
+      "relation_dimension": 0,
+      "resolvent_relation_dimension": 0,
+      "max_fields_per_resolvent": 1,
+      "a3_fields": 1,
+      "a3_rank": 1,
+      "elimination_width": 4,
+      "first_acceptance_fraction": "135872/1594323",
+      "failure_fraction": "4096/1594323",
+      "failure_decimal": "2.5691155430863132e-03",
+      "coverage_fraction": "1590227/1594323",
+      "coverage_decimal": "9.9743088445691364e-01"
+    },
+    {
+      "ring": 4,
+      "s3_fields": 23,
+      "s3_cubic_rank": 23,
+      "quadratic_resolvents": 23,
+      "squareclass_rank": 21,
+      "quadratic_generators": 21,
+      "relation_dimension": 2,
+      "resolvent_relation_dimension": 2,
+      "max_fields_per_resolvent": 1,
+      "a3_fields": 1,
+      "a3_rank": 1,
+      "elimination_width": 4,
+      "first_acceptance_fraction": "716025856/282429536481",
+      "failure_fraction": "9568256/282429536481",
+      "failure_decimal": "3.3878382973742864e-05",
+      "coverage_fraction": "282419968225/282429536481",
+      "coverage_decimal": "9.9996612161702625e-01"
+    },
+    {
+      "ring": 5,
+      "s3_fields": 38,
+      "s3_cubic_rank": 38,
+      "quadratic_resolvents": 37,
+      "squareclass_rank": 31,
+      "quadratic_generators": 31,
+      "relation_dimension": 7,
+      "resolvent_relation_dimension": 6,
+      "max_fields_per_resolvent": 2,
+      "a3_fields": 1,
+      "a3_rank": 1,
+      "elimination_width": 4,
+      "first_acceptance_fraction": "136789608497152/4052555153018976267",
+      "failure_fraction": "504406999040/4052555153018976267",
+      "failure_decimal": "1.2446641192883924e-07",
+      "coverage_fraction": "4052554648611977227/4052555153018976267",
+      "coverage_decimal": "9.9999987553358805e-01"
+    }
+  ]
+}
