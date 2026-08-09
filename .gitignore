@@ -1,0 +1,17 @@
+# Local transfer packages
+copy_result_github.zip
+results_no_csv.zip
+
+# Temporary/staging files
+*.tmp
+*.part
+*.bak
+*.swp
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Logs
+*.log
