@@ -100,4 +100,3 @@ DOI:
 
 The plots in this repository are generated from the validated JSON state files. The repository should therefore be interpreted as a live computational reporting layer, while Zenodo records and tagged releases provide immutable research artifacts.
 
-<!-- TEST update_BRPT -->
