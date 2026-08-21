@@ -1,31 +1,31 @@
 {
   "inputs": {
-    "ring": "/home/brpt/BRPT_Python/brpt_x_x/.copy_result.tmp.OHIrjV/results_ring/state_ring.json",
-    "prime": "/home/brpt/BRPT_Python/brpt_x_x/.copy_result.tmp.OHIrjV/results_primes/state_prime_scan.json",
-    "C21": "/home/brpt/BRPT_Python/brpt_x_x/.copy_result.tmp.OHIrjV/results_c21/summary_c21.json",
-    "PSPS": "/home/brpt/BRPT_Python/brpt_x_x/.copy_result.tmp.OHIrjV/results_psps/summary_psps.json"
+    "ring": "/home/brpt/BRPT_Python/brpt_x_x/.copy_result.tmp.buriCs/results_ring/state_ring.json",
+    "prime": "/home/brpt/BRPT_Python/brpt_x_x/.copy_result.tmp.buriCs/results_primes/state_prime_scan.json",
+    "C21": "/home/brpt/BRPT_Python/brpt_x_x/.copy_result.tmp.buriCs/results_c21/summary_c21.json",
+    "PSPS": "/home/brpt/BRPT_Python/brpt_x_x/.copy_result.tmp.buriCs/results_psps/summary_psps.json"
   },
   "states": {
     "6k+/-1 candidates": {
-      "tested": 164926000000,
-      "with_pair": 19114247888,
-      "without_pair": 145811752112,
+      "tested": 165545000000,
+      "with_pair": 19183207222,
+      "without_pair": 146361792778,
       "distinct_pairs": 58,
       "max_ring": 7,
       "errors": 0,
-      "accepted": 19114247889,
-      "rejected": 145811752111,
-      "last_value": 494778000001
+      "accepted": 19183207223,
+      "rejected": 146361792777,
+      "last_value": 496635000001
     },
     "Primes": {
-      "tested": 97611620357,
-      "with_pair": 97611620354,
+      "tested": 97980270008,
+      "with_pair": 97980270005,
       "without_pair": 3,
       "distinct_pairs": 60,
       "max_ring": 7,
       "errors": 0,
       "failures": 0,
-      "last_value": 2692338787217
+      "last_value": 2702890787203
     }
   },
   "validations": {
